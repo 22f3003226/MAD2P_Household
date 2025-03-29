@@ -1,0 +1,1 @@
+<form @submit.prevent="isEditing? updateCategory : createCategory"> : Means if isEditing is true, then update the category, else 
